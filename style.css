@@ -1,0 +1,245 @@
+.cls-1 {
+  fill: #e2cb24;
+  opacity: 0.69;
+}
+
+.cls-1, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-28, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54 {
+  stroke: #000;
+}
+
+.cls-1, .cls-14, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-28, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54 {
+  stroke-miterlimit: 10;
+}
+
+.cls-1, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54 {
+  stroke-width: 0.25px;
+}
+
+.cls-2, .cls-29 {
+  font-size: 64px;
+}
+
+.cls-2 {
+  font-family: BlackBruno, Black Bruno;
+}
+
+.cls-3 {
+  fill: #70cfff;
+}
+
+.cls-4 {
+  fill: #00ccf3;
+}
+
+.cls-5 {
+  fill: #494949;
+}
+
+.cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-28, .cls-6 {
+  fill: #fff;
+}
+
+.cls-7 {
+  fill: #c10017;
+}
+
+.cls-8 {
+  fill: #ffbd8d;
+}
+
+.cls-9 {
+  fill: #3a3a3a;
+}
+
+.cls-10 {
+  fill: #ffa563;
+}
+
+.cls-11 {
+  fill: #cc0e20;
+}
+
+.cls-12 {
+  fill: #0c0c0c;
+}
+
+.cls-13 {
+  fill: #00bbe0;
+}
+
+.cls-14, .cls-22, .cls-23, .cls-24, .cls-47 {
+  fill: none;
+}
+
+.cls-14 {
+  stroke: #b17759;
+}
+
+.cls-14, .cls-17, .cls-22 {
+  stroke-width: 4px;
+}
+
+.cls-15 {
+  fill: #70cfee;
+}
+
+.cls-16 {
+  stroke-width: 2px;
+}
+
+.cls-19 {
+  stroke-width: 3px;
+}
+
+.cls-20 {
+  stroke-width: 6px;
+}
+
+.cls-21, .cls-23 {
+  stroke-width: 5px;
+}
+
+.cls-24 {
+  stroke-width: 13px;
+}
+
+.cls-25 {
+  fill: #8d8d8d;
+}
+
+.cls-26 {
+  fill: #9f9f9f;
+}
+
+.cls-27 {
+  fill: #e7e5e5;
+}
+
+.cls-28 {
+  stroke-width: 12px;
+}
+
+.cls-29, .cls-32, .cls-41, .cls-43 {
+  font-family: Arial-BoldMT, Arial;
+  font-weight: 700;
+}
+
+.cls-30 {
+  letter-spacing: -0.02em;
+}
+
+.cls-31, .cls-43 {
+  letter-spacing: -0.07em;
+}
+
+.cls-32 {
+  font-size: 29px;
+}
+
+.cls-33 {
+  letter-spacing: -0.02em;
+}
+
+.cls-34 {
+  letter-spacing: -0.04em;
+}
+
+.cls-35 {
+  letter-spacing: 0em;
+}
+
+.cls-36 {
+  letter-spacing: -0.07em;
+}
+
+.cls-37 {
+  letter-spacing: -0.04em;
+}
+
+.cls-38 {
+  letter-spacing: 0em;
+}
+
+.cls-39 {
+  letter-spacing: -0.06em;
+}
+
+.cls-40 {
+  letter-spacing: -0.09em;
+}
+
+.cls-41 {
+  font-size: 74px;
+}
+
+.cls-42 {
+  letter-spacing: -0.09em;
+}
+
+.cls-43 {
+  font-size: 23px;
+}
+
+.cls-44 {
+  letter-spacing: 0em;
+}
+
+.cls-45 {
+  letter-spacing: -0.09em;
+}
+
+.cls-46 {
+  letter-spacing: -0.02em;
+}
+
+.cls-47 {
+  stroke-width: 9px;
+}
+
+.cls-48 {
+  fill: #ff0006;
+}
+
+.cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54 {
+  opacity: 0.09;
+}
+
+.cls-49 {
+  fill: #0200e7;
+}
+
+.cls-50 {
+  fill: #2a876f;
+}
+
+.cls-51 {
+  fill: #f94b58;
+}
+
+.cls-52 {
+  fill: #ff4217;
+}
+
+.cls-53 {
+  fill: #f9482b;
+}
+
+.cls-54 {
+  fill: #823023;
+}
+body{
+  position: relative;
+}
+#Put-your-mask {
+  width: 200px;
+  position: absolute;
+  top: 80%;
+  right: 35%;
+  opacity: 0;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#Put-your-mask:hover {
+  cursor: pointer !important;
+}
